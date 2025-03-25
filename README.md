@@ -6,7 +6,7 @@ The code has been developed following the lecture notes provided by **Professor 
 
 ## Contents
 - Bernstein polynomials
-- And more...
+- Lagrange polynomials
 
 ## Acknowledgments
 Special thanks to **Professor Jaehun Jung**, whose lecture notes served as the foundation for this work.
